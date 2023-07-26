@@ -5,3 +5,6 @@ This repository includes data (both simulated & publically available ones) that 
 
 ### Starwars
 Basically the starwars data in ``tidyverse``, but I filtered some missing numeric values, so students don't have to worry about setting na.rm=TRUE when doing numeric analysis.
+
+### CASchools
+Basically the CASchools data in ``AER``, but with another new column (teacher-student ratio).
