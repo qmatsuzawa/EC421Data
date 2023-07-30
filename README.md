@@ -8,3 +8,6 @@ Basically the starwars data in ``tidyverse``, but I filtered some missing numeri
 
 ### CASchools
 Basically the CASchools data in ``AER``, but with another new column (teacher-student ratio).
+
+### Wage
+Wage2 data from ``Wooldridge``
