@@ -11,3 +11,9 @@ Basically the CASchools data in ``AER``, but with another new column (teacher-st
 
 ### Wage
 Wage2 data from ``Wooldridge``
+
+### Data_Heteroskedasticity
+Simulated data on various cases of homoskedasticity and heteroskedasticity.
+
+### Time Series
+Macroeconomic data I downloaded from FRED
